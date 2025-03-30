@@ -5,6 +5,5 @@ langchain_core
 langchain_groq
 langchain_openai
 faiss-cpu
-chroma
 streamlit
 beautifulsoup4
